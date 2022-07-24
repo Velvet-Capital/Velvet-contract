@@ -12,7 +12,7 @@ _Polygon_ - Blockchain network for smart contract deployment.
 
 _Gnosis Chain_ - Blockchain network for smart contract deployment.
 
-_Cronos - Blockchain network for smart contract deployment.
+_Cronos_ - Blockchain network for smart contract deployment.
 
 _Gnosis Safe_ - MultiSig wallet
 
@@ -47,25 +47,31 @@ We have two folder where our code and tested out locally
 
 POLYGON with GNOSIS SAFE:
 
-TOP 5 DeFi Fund
+TOP 5 token funds
 
-IndexSwap Contract Address: 0x108D3698E8F70Bc6F06E883fD2a6B8DD4B7Beb4A
+Deposit address: https://polygonscan.com/tx/0x0e44b4a42d09ed22155db6960106694570f1286d5bf7a834d28bc144eb0ccc83
+Withdrawal address: https://polygonscan.com/tx/0x639b142f962d65454fdd356a0418e0897a9b91fa117f1b78cdde191736e30622
 
-IndexSwapLibrary Contract Address: 0xe0406D86aEb9B3b5dbE94d4C9d394A164E67a6ac
 
-Gnosis Safe Vault Address: 0x047267377DEb8DC5578C2498e3b8f09656c273cD
 
-TOKENS:
+## Cronos Network
 
-MAKER(MKR): 0x6f7C932e7684666C9fd1d44527765433e01fF61d
+op 5 DeFi Fund(CRONOS)
 
-UNISWAP(UNI): 0xb33EaAd8d922B1083446DC23f610c2567fB5180f
+VVS Finance(RouterV2): 0x145863Eb42Cf62847A6Ca784e6416C1682b1b2Ae
+AccessController: 0x7F5EbC8745b8f55bc3B055E259D0570C6e0d06d3
+IndexManager: 0xa6dB77aDAd270E2eE8C166c7f4B3Ae5eEc8f0364
+IndexSwapLibrary: 0xD3C1a16F3c1CB35BD7298899FBE8177C008515bd
+IndexSwap: 0xb94071d5AFD1235Bd5227ce2551fb2A809b87218
+PriceOracle: 0x8C04779bD07BE2E2CF366DE2948aA2c91D96e385
+Vault: 0x56A889C95A2cE2167d9AC0084208F4e6199be42f
 
-CHAINLINK(LINK): 0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39
-
-AAVE(AAVE): 0xD6DF932A45C0f255f85145f286eA0b292B21C90B
-
-COMPOUND(COMP): 0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c
+TokenList:
+BITCOIN(WBTC): 0x062E66477Faf219F25D27dCED647BF57C3107d52
+ETHEREUM(WETH): 0xe44Fd7fCb2b1581822D0c862B68222998a0c299a
+VVS Finance(VVS): 0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03
+DOT(DOT): 0x994047FE66406CbD646cd85B990E11D7F5dB8fC7
+Cardano(ADA): 0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0
 
 # NEON CONTRACTS
 
