@@ -12,6 +12,8 @@ _Polygon_ - Blockchain network for smart contract deployment.
 
 _Gnosis Chain_ - Blockchain network for smart contract deployment.
 
+_Cronos - Blockchain network for smart contract deployment.
+
 _Gnosis Safe_ - MultiSig wallet
 
 _IPFS_ - Deployed the UI (react app) on fleek
